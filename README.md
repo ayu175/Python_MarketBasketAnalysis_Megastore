@@ -15,7 +15,7 @@ Classification of categorical variables as ordinal or nominal, followed by appro
 #### **2. Market Basket Analysis (Apriori Algorithm)**
 Applied the Apriori algorithm to identify frequent itemsets and generated association rules using support, confidence, and lift metrics. Filtered and ranked rules to identify the strongest product associations.
 
-####* *3. Data Export & Reproducibility**
+#### **3. Data Export & Reproducibility**
 Exported the transactionalized dataset using to_csv() to ensure reproducibility and enable downstream analysis.
 
 #### **4. Business Insight & Interpretation**
